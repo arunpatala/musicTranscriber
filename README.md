@@ -20,6 +20,8 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7225173&url=http%3A%2F%2Fi
 
 http://papers.nips.cc/paper/5432-unsupervised-transcription-of-piano-music.pdf
 
+http://www.cp.jku.at/people/schedl/Research/Publications/pdf/boeck_schedl_icassp_2012.pdf
+
 
 
 
